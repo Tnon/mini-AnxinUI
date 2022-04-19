@@ -11,3 +11,4 @@ tsx写组件
 ## eslint prettier commitlint husky等
 ## style打包，theme，*.d.ts
 ## 自动化生成组件，文档脚本等
+![image](https://user-images.githubusercontent.com/42601536/163941989-e2a6da54-2e49-4095-a0e6-2492a56362a0.png)
