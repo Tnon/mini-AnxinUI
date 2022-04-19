@@ -1,0 +1,16 @@
+{
+  "name": "anxin-ui",
+  "version": "1.0.0",
+  "description": "ui库,monorepo搭建",
+  "private": true,
+  "scripts": {},
+  "author": "delevin.tnt",
+  "license": "MIC",
+  "dependencies": {
+    "@anxin-ui/anxin": "workspace:^1.0.0",
+    "@anxin-ui/build": "workspace:^1.0.0"
+  },
+  "devDependencies": {
+    "vue": "^3.2.33"
+  }
+}

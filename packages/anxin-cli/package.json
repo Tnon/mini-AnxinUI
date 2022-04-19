@@ -1,0 +1,19 @@
+{
+  "name": "@anxin-ui/anxin-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:lib": "node ./index.js buildAll",
+    "build:single": "node ./index.js buildSingle"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^9.2.0",
+    "esbuild": "^0.14.36",
+    "inquirer": "^8.2.2",
+    "kolorist": "^1.5.1"
+  }
+}
